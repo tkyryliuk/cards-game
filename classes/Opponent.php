@@ -1,6 +1,13 @@
 <?php
-include_once "Desk.php";
-include_once "PackOfCards.php";
+
+/**
+ * @file
+ * Provide functionality for computer side of the game
+ * (like interacting with desk and packOfCards,
+ * automatic extra cards, beating cards and attack).
+ */
+include_once 'Desk.php';
+include_once 'PackOfCards.php';
 
 class Opponent
 {

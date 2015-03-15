@@ -1,6 +1,11 @@
 <?php
-include_once "Desk.php";
-include_once "PackOfCards.php";
+
+/**
+ * @file
+ * Provide functionality for player (like interacting with desk and packOfCards).
+ */
+include_once 'Desk.php';
+include_once 'PackOfCards.php';
 
 class Player
 {

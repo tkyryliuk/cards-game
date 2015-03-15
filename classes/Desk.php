@@ -1,7 +1,13 @@
 <?php
-include_once "Player.php";
-include_once "Opponent.php";
-include_once "PackOfCards.php";
+
+/**
+ * @file
+ * Provide functionality Desk, which control whole flow of the game.
+ * Interact with pack of cards, player and opponent (computer side).
+ */
+include_once 'Player.php';
+include_once 'Opponent.php';
+include_once 'PackOfCards.php';
 
 class Desk
 {
