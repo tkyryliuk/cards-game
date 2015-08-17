@@ -9,4 +9,4 @@ This simple PHP application provides a functionality to play the popular card ga
 ### Who do I talk to? ###
 
 * This app created by Taras Kyryliuk
-(mailto.goover@gmail.com, https://bitbucket.org/JGoover).
+(https://github.com/tkyryliuk).
