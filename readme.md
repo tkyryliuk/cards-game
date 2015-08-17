@@ -1,4 +1,4 @@
-# README #
+# Cards Game #
 This simple PHP application provides a functionality to play the popular card game called "Durak" (Fool);
 
 ### Demo? ###
